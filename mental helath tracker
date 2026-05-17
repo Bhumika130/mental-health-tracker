@@ -1,0 +1,126 @@
+# Mental Health Tracker
+
+## Project Overview
+The Mental Health Tracker is a full-stack web application developed for monitoring and improving emotional well-being. The system helps users track daily mood, stress levels, sleep patterns, and personal notes in a secure and user-friendly environment.
+
+The application encourages self-awareness and proactive mental health management through continuous monitoring and visualization.
+
+---
+
+## Team Members
+- Ms. Khurhade Siddhi U.
+- Ms. Temkar Bhumika S.
+- Mr. Kokane Vedant S.
+- Ms. Ware Payal A.
+
+---
+
+## College Information
+Sahyadri Valley College of Engineering Technology, Rajuri, Pune
+
+### Guided By
+Prof. Khatal K.B.
+
+### Academic Year
+2025-26
+
+---
+
+## Features
+- User Authentication and Secure Login
+- Daily Mood Tracking
+- Stress Level Monitoring
+- Sleep Tracking
+- Personal Notes and Journaling
+- Mood History Visualization
+- Charts and Reports
+- Secure Database Management
+
+---
+
+## Technologies Used
+- Java
+- React.js
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## Objectives
+- Monitor mood, stress, and sleep patterns
+- Promote emotional well-being
+- Provide visual analysis through charts and reports
+- Ensure secure handling of user information
+
+---
+
+## Existing System
+- Traditional mental healthcare depends on periodic consultations
+- Existing applications provide limited tracking and personalization
+- Privacy and continuous monitoring remain major challenges
+
+---
+
+## Proposed System
+- Secure login and profile management
+- Daily mental health activity tracking
+- Mood visualization using reports and charts
+- Scalable architecture using Java and React.js
+- Secure data storage using MySQL
+
+---
+
+## Advantages
+- Encourages self-awareness
+- Helps identify emotional and behavioral patterns
+- Provides continuous monitoring
+- Simple and user-friendly interface
+- Secure management of sensitive information
+
+---
+
+## Future Scope
+- AI-based mood prediction
+- Chatbot support
+- Voice-based mood logging
+- Smartwatch integration
+- Therapist and healthcare integration
+
+---
+
+## Applications
+- Student mental health monitoring
+- Stress management
+- Daily habit tracking
+- Sleep analysis
+- Emotional wellness improvement
+
+---
+
+## How to Run the Project
+
+1. Clone the repository
+2. Open frontend using React.js
+3. Configure MySQL database
+4. Run backend server
+5. Start the application in browser
+
+---
+
+## Project Status
+Under Development
+
+---
+
+## References
+- Java Documentation
+- React.js Documentation
+- MySQL Documentation
+- IEEE Mental Health Research Papers
+
+---
+
+## License
+This project is licensed under the MIT License.
